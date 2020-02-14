@@ -1,0 +1,9 @@
+*.txt
+2d_vs_3d.ipynb
+*.mds
+/results/
+/spatialstuff/
+/with_angles_3/
+*.png
+*.csv
+/.ipynb_checkpoints/
